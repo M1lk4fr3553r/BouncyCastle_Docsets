@@ -1,0 +1,2 @@
+- Provider: dash-feed://raw.githubusercontent.com/M1lk4fr3553r/BouncyCastle_Docsets/master/feeds/BouncyCastle%20Provider.xml
+- OpenPGP: dash-feed://raw.githubusercontent.com/M1lk4fr3553r/BouncyCastle_Docsets/master/feeds/BouncyCastle%20OpenPGP.xml
